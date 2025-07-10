@@ -25,7 +25,15 @@ AI Tools: Claude Sonnet 3.5, DeepSeek R1 (for strategic content generation and d
 📌 Project Status
 ✅ Strategic planning and market research complete
 ✅ Frontend UI under development using React and Tailwind
+## 📱 Screenshots
 
+![Home](screenshots/Home_screen.jpg)  
+![Profile](screenshots/Profile_screen.jpg)  
+![Quiz 1](screenshots/Quiz_screen.jpg)  
+![Quiz 2](screenshots/Quiz_screen2.jpg)  
+![Sign In](screenshots/Sign-in_screen.jpg)  
+![Features](screenshots/feature_screen.jpg)  
+![Onboarding](screenshots/onboarding_screen.jpg)
 
 ✅ Firebase Cloud integration in progress
 
