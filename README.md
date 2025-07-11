@@ -1,17 +1,28 @@
 # 🛡️ DhanRakshak – Financial Literacy App
 
-📺 **Watch the Prototype Demo:**  
-[![DhanRakshak – Watch on YouTube](https://img.youtube.com/vi/O0qcLL5FLmY/0.jpg)](https://youtu.be/O0qcLL5FLmY)
+👥 **Contributors**  
+- [Mihir Kahate](https://www.linkedin.com/in/mihir-kahate-a63768309/)  
+- [Saurabh Shendurkar](https://www.linkedin.com/in/saurabh-shendurkar-8a3753264/)
+
+📺 **Watch the Prototype Demo on YouTube**  
+🔗 [https://youtu.be/O0qcLL5FLmY](https://youtu.be/O0qcLL5FLmY)
 
 ---
 
-### 🚀 Purpose
+## 📖 About the Project
 
-To empower underserved communities with simplified and actionable financial knowledge, helping users safeguard themselves from digital scams and manage their finances responsibly.
+**DhanRakshak** is a **mobile-first web application** focused on enhancing **financial literacy among Tier 2 and Tier 3 city populations in India**.  
+It aims to build awareness around **digital frauds**, improve **budgeting habits**, and promote **safe digital financial practices**.
 
 ---
 
-### 🧩 Core Capabilities
+## 🚀 Purpose
+
+To **empower underserved communities** with simplified and actionable **financial knowledge**, helping users safeguard themselves from **digital scams** and manage their **finances responsibly**.
+
+---
+
+## 🧩 Core Capabilities
 
 - **Digital Fraud Awareness** – Educational content and real-world fraud simulation scenarios.  
 - **Budgeting Support** – Guides and resources to help users understand income, expenses, and savings.  
@@ -21,7 +32,7 @@ To empower underserved communities with simplified and actionable financial know
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Frontend:** React, TypeScript, Tailwind CSS  
 - **Backend:** Firebase Cloud (Authentication, Firestore, Hosting)  
@@ -29,7 +40,21 @@ To empower underserved communities with simplified and actionable financial know
 
 ---
 
-### 📌 Project Status
+## 📌 Project Status
 
 - ✅ Strategic planning and market research complete  
 - ✅ Frontend UI under development using React and Tailwind
+
+---
+
+## 📸 Screenshots
+
+![Home](screenshots/Home_screen.jpg)  
+![Profile](screenshots/Profile_screen.jpg)  
+![Quiz 1](screenshots/Quiz_screen.jpg)  
+![Quiz 2](screenshots/Quiz_screen2.jpg)  
+![Sign In](screenshots/Sign-in_screen.jpg)  
+![Features](screenshots/feature_screen.jpg)  
+![Onboarding](screenshots/onboarding_screen.jpg)
+
+---
